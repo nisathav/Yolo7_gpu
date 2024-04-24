@@ -34,6 +34,7 @@ Prerequisites:
     • `reboot`
 
     - if above cuda installation sucks use the steps in the video `https://www.youtube.com/watch?v=8i3BiWa5AZ4`
+    - if used the cuda installation method above. To install pytorch please use `pip3 install torch torchvision torchaudio`
     
     • Run the command
       `python3 detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inference/images/horses.jpg`
