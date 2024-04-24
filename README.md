@@ -33,7 +33,7 @@ Prerequisites:
     • `sudo apt remove --purge nvidia-driver-535 nvidia-kernel-source-535 nvidia-kernel-common-535 nvidia-compute-utils-535 nvidia-utils-535 nvidia-firmware-535-535.171.04 xserver-xorg-video-nvidia-535 libnvidia-cfg1-535 libnvidia-compute-535 libnvidia-decode-535 libnvidia-encode-535 libnvidia-fbc1-535 libnvidia-gl-535 libnvidia-extra-535 libnvidia-common-535`
     • `reboot`
 
-    -if above cuda installation sucks use the steps in the video `https://www.youtube.com/watch?v=8i3BiWa5AZ4`
+    - if above cuda installation sucks use the steps in the video `https://www.youtube.com/watch?v=8i3BiWa5AZ4`
     
     • Run the command
       `python3 detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inference/images/horses.jpg`
