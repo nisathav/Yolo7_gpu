@@ -11,7 +11,7 @@ Prerequisites:
         - `conda create venv`
         - `conda activate venv`
         - `pip3 install -r requirements.txt`
-        - download the pretrained weights: `https://github.com/WongkinYiu/yolov7/release/download/v0.1/yolov7.pt`
+        - download the pretrained weights: `https://github.com/WongkinYiu/yolov7/release/download/v0.1/yolov7.pt` or `https://github.com/augmentedstartups/yolov7?tab=readme-ov-file`
     
     - Do the below outside the conda environment
     • Clone the YOLOV7 repository from GitHub. 
