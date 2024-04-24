@@ -40,3 +40,5 @@ Prerequisites:
     
     • Run the command
       `python3 detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inference/images/horses.jpg`
+
+Remark: to study about yolo refer this link `https://store.augmentedstartups.com/view/courses/a129dc8f-a453-4f6c-a42b-f99c9b762c3b`
